@@ -1,0 +1,7 @@
+---
+title: "data-analysis-md"
+output: html_document
+---
+# markdown
+
+hier kann Text stehen, der gerendert wird, z.B. in **fett** , oder *kursiv*, oder __so fett__
